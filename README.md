@@ -1,13 +1,10 @@
 # Saas-customer-churn-revenue-risk-analysis
 End-to-end SaaS customer churn and revenue risk analysis using Python, Pandas, and Power BI to identify churn trends, At-Risk MRR, high-value customer segments, and retention priorities.
 
-# SaaS Customer Churn & Revenue Risk Analysis
 
 <!-- 🎥 DASHBOARD INTERACTIVE DEMO 🎥 -->
 ![Power BI Interactive Dashboard Overview](screenshots/dashboard_demo2.gif)
-*(If the GIF does not load instantly, please allow a moment for it to buffer.)*
 
----
 
 ## 🎯 Project Overview & Business Objectives
 
