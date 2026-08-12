@@ -10,7 +10,7 @@ In B2B SaaS models, customer retention directly dictates long-term enterprise va
 ### Primary Goals
 1. **Financial Exposure Modeling:** Determine if account loss is aligned with MRR loss, or if high-value Enterprise accounts are driving revenue leakage.
 2. Root-Cause Analysis: Pinpoint specific customer friction points regarding feature caps, pricing structures, and support interactions.
-3. **Behavioral Early Warning System:** Create an automated action pipeline to isolate active accounts showing warning signs (low usage + open support tickets) before they cancel.
+3. **High-Risk Segment Identification:** Isolate active accounts with low platform usage and high support ticket volume using engagement metrics to prioritize Customer Success outreach.
 
 ---
 
