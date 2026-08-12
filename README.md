@@ -14,7 +14,7 @@ In B2B SaaS models, customer retention directly dictates long-term enterprise va
 
 ### Primary Goals
 1. **Financial Exposure Modeling:** Determine if account loss is aligned with MRR loss, or if high-value Enterprise accounts are driving revenue leakage.
-2. **Root-Cause Root Analysis:** Pinpoint specific customer friction points regarding feature caps, pricing structures, and support interactions.
+2. Root-Cause Analysis: Pinpoint specific customer friction points regarding feature caps, pricing structures, and support interactions.
 3. **Behavioral Early Warning System:** Create an automated action pipeline to isolate active accounts showing warning signs (low usage + open support tickets) before they cancel.
 
 ---
@@ -51,7 +51,7 @@ The Enterprise segment shows extreme variance and high MRR outliers. Losing a si
 ![MRR Distribution Boxplot](screenshots/mrr_distribution_boxplot.png)
 
 ### 4. Behavior: Usage Events vs. Support Tickets (Seaborn Scatter)
- mapped account engagement. Churned accounts (blue) are distributed across all usage tiers, confirming that attrition is driven by feature fit and pricing rather than passive platform ghosting.
+Mapped account engagement across customer tiers. Churned accounts (blue) are distributed across all usage tiers, confirming that attrition is driven by feature fit and pricing rather than passive platform ghosting.
 
 ![Usage vs Support Tickets Scatter](screenshots/Saas_seaborn.png)
 
