@@ -1,11 +1,11 @@
 # Saas-customer-churn-revenue-risk-analysis
 End-to-end SaaS customer churn and revenue risk analysis using Python, Pandas, and Power BI to identify churn trends, At-Risk MRR, high-value customer segments, and retention priorities.
 
+# 🎯 Project Overview & Business Objectives
+
+In B2B SaaS models, customer retention directly dictates long-term enterprise valuation and Monthly Recurring Revenue (MRR) predictability. This project processes 5,000 customer accounts across 5 relational tables—cleaned and merged in Jupyter Notebook (Pandas) to construct an optimized Star Schema dataset for Power BI analysis—to evaluate churn drivers, revenue exposure, and usage metrics, converting descriptive statistics into proactive retention strategies.
 
 
-## 🎯 Project Overview & Business Objectives
-
-In B2B SaaS models, customer retention directly dictates long-term enterprise valuation and Monthly Recurring Revenue (MRR) predictability. This project processes 5,000 customer accounts across 5 relational tables to evaluate churn drivers, revenue exposure, and usage metrics, converting descriptive statistics into proactive retention strategies.
 
 ### Primary Goals
 1. **Financial Exposure Modeling:** Determine if account loss is aligned with MRR loss, or if high-value Enterprise accounts are driving revenue leakage.
