@@ -2,13 +2,6 @@
 End-to-end SaaS customer churn and revenue risk analysis using Python, Pandas, and Power BI to identify churn trends, At-Risk MRR, high-value customer segments, and retention priorities.
 
 
-> 💬 **Executive Story & Business Impact**  
-> *"While active customer volume grew **17.3% YoY**, financial exposure accelerated faster—with **At-Risk MRR increasing by 25.0% YoY** to $1.47M. Enterprise accounts represent **73.17% ($1.08M)** of total revenue risk, with the highest concentration in the US. The strategic takeaway is clear: retention efforts must pivot from generic customer outreach to targeted white-glove intervention for high-value Enterprise accounts."*
-
-<!-- 🎥 DASHBOARD INTERACTIVE DEMO 🎥 -->
-![Power BI Dashboard Demo](screenshots/Saas_dashboraddemo.gif)
-
-![Executive Dashboard Overview](screenshots/Saas_dashboardpic.png)
 
 ## 🎯 Project Overview & Business Objectives
 
@@ -31,7 +24,15 @@ The interactive Executive Overview focuses on 2024 performance, summarizing the 
 * **Churn Rate Trends by Month (Area Chart):** Monitors retention stability throughout 2024, highlighting peaks in Q1 and late Q4.
 * **Executive Summary Panel:** Translates live data filters into immediate actionable strategic priorities.
 
----
+> 💬 **Executive Story & Business Impact**  
+> *"While active customer volume grew **17.3% YoY**, financial exposure accelerated faster—with **At-Risk MRR increasing by 25.0% YoY** to $1.47M. Enterprise accounts represent **73.17% ($1.08M)** of total revenue risk, with the highest concentration in the US. The strategic takeaway is clear: retention efforts must pivot from generic customer outreach to targeted white-glove intervention for high-value Enterprise accounts."*
+
+<!-- 🎥 DASHBOARD INTERACTIVE DEMO 🎥 -->
+![Power BI Dashboard Demo](screenshots/Saas_dashboraddemo.gif)
+
+
+![Executive Dashboard Overview](screenshots/Saas_dashboardpic.png)
+
 
 ## 🐍 Exploratory Data Analysis & Python Visualizations
 
