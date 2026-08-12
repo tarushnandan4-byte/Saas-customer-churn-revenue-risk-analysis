@@ -86,8 +86,10 @@ Saas-customer-churn-revenue-risk-analysis/
 
 ---
 
-## 🔒 License & Copyright
+---
 
-This project is licensed under the **CC BY-NC-ND 4.0** License — see the [LICENSE](LICENSE) file for full details.
+## 🔒 Copyright & Terms of Use
 
-© 2026 Tarush Nandan. All rights reserved.
+© 2026 Tarush Nandan. All Rights Reserved.
+
+Unauthorised copying, downloading for re-use, modification, republication, or commercial distribution of this project and its assets is strictly prohibited.
