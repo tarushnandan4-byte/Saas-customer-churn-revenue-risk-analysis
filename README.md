@@ -3,8 +3,7 @@ End-to-end SaaS customer churn and revenue risk analysis using Python, Pandas, a
 
 
 <!-- 🎥 DASHBOARD INTERACTIVE DEMO 🎥 -->
-![Power BI Interactive Dashboard Overview](Saas_dashboraddemo.gif)
-
+![Power BI Dashboard Demo](screenshots/Saas_dashboraddemo.gif)
 
 ## 🎯 Project Overview & Business Objectives
 
@@ -40,7 +39,8 @@ We isolated the critical SaaS metric difference: **Logo Churn Rate (9.72%)** vs.
 ### 2. Identifying Root Causes of Churn (Matplotlib)
 Combining budget constraints ($17.3\%$) and pricing friction ($15.2\%$) reveals that **financial concerns drive 32.5% of all cancellations**, while missing product features represents the single largest individual driver ($19.0\%$).
 
-![Churn Reason Code Distribution](Saas_plot.png)
+![Churn Reasons Bar Chart](screenshots/Saas_plot.png)
+
 
 ### 3. MRR Distribution by Plan Tier (Seaborn Boxplot)
 The Enterprise segment shows extreme variance and high MRR outliers. Losing a single outlier Enterprise account significantly impacts total MRR unpredictably.
@@ -50,7 +50,7 @@ The Enterprise segment shows extreme variance and high MRR outliers. Losing a si
 ### 4. Behavior: Usage Events vs. Support Tickets (Seaborn Scatter)
  mapped account engagement. Churned accounts (blue) are distributed across all usage tiers, confirming that attrition is driven by feature fit and pricing rather than passive platform ghosting.
 
-![Usage vs Support Tickets Scatter](Saas_seaborn.png)
+![Usage vs Support Tickets Scatter](screenshots/Saas_seaborn.png)
 
 ---
 
