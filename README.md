@@ -8,7 +8,7 @@ End-to-end SaaS customer churn and revenue risk analysis using Python, Pandas, a
 <!-- 🎥 DASHBOARD INTERACTIVE DEMO 🎥 -->
 ![Power BI Dashboard Demo](screenshots/Saas_dashboraddemo.gif)
 
-![Dashboard Overview](Saas_dashboardpic.png)
+![Executive Dashboard Overview](screenshots/Saas_dashboardpic.png)
 
 ## 🎯 Project Overview & Business Objectives
 
