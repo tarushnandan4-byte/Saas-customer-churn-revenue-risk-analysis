@@ -81,3 +81,13 @@ Saas-customer-churn-revenue-risk-analysis/
 ├── screenshots/            # Dashboard GIFs, Python visualizations (boxplot, scatter, bar charts)
 │   └── dashboard_demo2.gif
 └── README.md               # Full repository documentation
+
+
+
+---
+
+## 🔒 License & Copyright
+
+This project is licensed under the **CC BY-NC-ND 4.0** License — see the [LICENSE](LICENSE) file for full details.
+
+© 2026 Tarush Nandan. All rights reserved.
